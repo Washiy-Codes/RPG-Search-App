@@ -43,7 +43,7 @@ Search for mythical creatures by **name or ID** and instantly reveal their **sta
 
 ## 🚀 Live Demo
 
-👉 [View Live Project](#)  
-*(Replace `#` with your GitHub Pages or Netlify link once deployed)*  
+👉 [View Live Project]( https://washiy-codes.github.io/RPG-Search-App/)  
+
 
 ---
