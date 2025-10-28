@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>RPG Creature Search App Project</title>
+    <link href="styles.css" rel="stylesheet" />
+  </head>
+  <body>
+     <header>
+      <nav>
+         <img class="logo" src="https://cdn-icons-png.flaticon.com/512/616/616408.png" alt="RPG Icon"/>
+      </nav>
+      <h1 class="title">RPG Creature Search App</h1>
+    </header>
+    <main>
+      <section class="container">
+        <label for="search-input">Search for Creature Name or Id:</label>
+        <div class="inline">
+          <input id="search-input" required />
+          <button id="search-button" class="search-btn">Search</button>
+        </div>
+
+        <div class="info">
+          <div> <span id="creature-name"></span>  <span id="creature-id"></span> </div>
+          <div class="h-w"> <span id="weight"></span>  <span id="height"></span> </div>
+          <div id="types"></div>
+          <div id="description-container" class="desc"></div>
+          
+        </div>
+
+        <div class="stats-container">
+          <table>
+            <thead>
+              <tr>
+                <th id="base" class="left">Base</th>
+                <th id="stats" class="right">Stats</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="left">HP:</td>
+                <td class="right" id="hp"></td>
+              </tr>
+              <tr>
+                <td class="left">Attack:</td>
+                <td class="right" id="attack"></td>
+              </tr>
+              <tr>
+                <td class="left">Defense:</td>
+                <td class="right" id="defense"></td>
+              </tr>
+              <tr>
+                <td class="left">Special Attack:</td>
+                <td class="right" id="special-attack"></td>
+              </tr>
+              <tr>
+                <td class="left">Special Defense:</td>
+                <td class="right" id="special-defense"></td>
+              </tr>
+              <tr>
+                <td class="left">Speed:</td>
+                <td class="right" id="speed"></td>
+              </tr>
+            </tbody>
+          </table> 
+        </div>
+        </section>  
+        </main> 
+      <script src="./script.js"></script>
+  </body>
+</html>
