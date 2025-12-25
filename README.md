@@ -4,6 +4,11 @@ A lightweight, interactive creature lookup tool inspired by classic RPG adventur
 Search for mythical creatures by **name or ID** and instantly reveal their **stats, types, and traits** — or get notified when the creature doesn’t exist.  
 
 ---
+## 📸 App Screenshot
+
+![RPG Search App](https://opengraph.githubassets.com/124739121f8d6a88420a5598c386a5dd6a196e91db61d14b86a1bbee36fd5586/freeCodeCamp/freeCodeCamp/issues/59048)
+
+---
 
 ## ✨ Features
 
