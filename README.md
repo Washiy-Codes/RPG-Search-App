@@ -7,8 +7,6 @@ An interactive RPG Creature Search App built with HTML, CSS, and JavaScript. Sea
 -  **Dynamic Type Badges** — supports single or multiple elemental types.  
 -  **Error Handling** — alerts you when a creature isn’t found.  
 -  **Responsive Design** — clean layout that works well on all devices.  
-
-
 ---
 
 ## How It Works
