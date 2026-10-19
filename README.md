@@ -3,11 +3,6 @@ An interactive RPG Creature Search App built with HTML, CSS, and JavaScript. Sea
 
 ## Features
 
--  **Instant Search** — look up creatures by name or ID.  
--  **Detailed Stats** — displays HP, Attack, Defense, and more.  
--  **Dynamic Type Badges** — supports single or multiple elemental types.  
--  **Error Handling** — alerts you when a creature isn’t found.  
--  **Responsive Design** — clean layout that works well on all devices.  
 
 ---
 
