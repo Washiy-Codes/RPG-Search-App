@@ -1,5 +1,4 @@
-# RPG Creature Search App
-An interactive RPG Creature Search App built with HTML, CSS, and JavaScript. Search for creatures by name or ID and explore their stats, abilities, and attributes through a simple, responsive interface.
+
 
 ## Features
 -  **Instant Search** — look up creatures by name or ID.  
